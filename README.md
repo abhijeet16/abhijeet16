@@ -1,5 +1,5 @@
 # Abhijeet Anand
-🧠 AI Engineer with 5+ years of experience software development and building scalable ML/DL solutions<br>🤖 Currently working on deep learning based counterfeit detection at Blue Cromos (Sweden)<br>🛠 Built Bin picking systems with point clouds and deep learning, RAG-based apps, NLP(transformer based) classifiers, and time-series pipelines<br>🚀 Skilled in Python, PyTorch, FastAPI, Docker, GCP, and LangChain<br>📚 M.Sc. in Statistics & Machine Learning | Linköping University<br>🎓 IEEE author, public speaker, and mentor to ML learners across the globe<br>🛸 Love automating with robots, optimizing systems, and hacking cool side projects<br>
+🧠 AI Engineer with 5+ years of experience in software development and building scalable ML/DL solutions<br>🤖 Currently working on deep learning based counterfeit detection at Blue Cromos (Sweden)<br>🛠 Built Bin picking systems with point clouds and deep learning, RAG-based apps, NLP(transformer based) classifiers, and time-series pipelines<br>🚀 Skilled in Python, PyTorch, FastAPI, Docker, and GCP<br>📚 M.Sc. in Statistics & Machine Learning | Linköping University<br>🎓 IEEE author, public speaker, and mentor to ML learners across the globe<br>🛸 Love automating with robots, optimizing systems, and hacking cool side projects<br>
 
 
 
